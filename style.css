@@ -72,6 +72,9 @@ div.credit a {
 
 @media (max-width: 420px) {
     body { padding: .6rem; }
-    div.sub-title { max-width: 12rem; }
+    div.text { max-width: 12rem; }
+    div.falling-text {
+        font-size: 16vw;
+    }
     div.credit { justify-self: center; }
 }
